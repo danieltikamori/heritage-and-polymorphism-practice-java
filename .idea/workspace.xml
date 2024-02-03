@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ef56676-cefc-4eda-9871-0c0e8df5a5f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heritage-and-polymorphism-practice-java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/animal/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/animal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/banking/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/banking/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/numbers/PrimeGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/numbers/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/numbers/PrimeVerifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/vehicle/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice/vehicle/CarModel.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ef56676-cefc-4eda-9871-0c0e8df5a5f6" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,11 +62,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706932051255</updated>
-      <workItem from="1706932052253" duration="9194000" />
+      <workItem from="1706932052253" duration="9575000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1706942629089</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706942629090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
